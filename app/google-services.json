@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733996312209",
+    "project_id": "appfoodyl-bahrul",
+    "storage_bucket": "appfoodyl-bahrul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733996312209:android:725096b613bd6808924130",
+        "android_client_info": {
+          "package_name": "com.catnip.appfoodyl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-uVq6Oi_srmNi39_FEG3WDTLHSCPamOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
